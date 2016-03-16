@@ -1,0 +1,27 @@
+{
+  "name": "thedineapp",
+  "version": "1.0.0",
+  "description": "Terrapin Hackers 29 Dine App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwittner2/TheDineApp.git"
+  },
+  "keywords": [
+    "The",
+    "Dine",
+    "App"
+  ],
+  "author": "Michael Wittner, Cole Alban, Omkar, Marcellus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwittner2/TheDineApp/issues"
+  },
+  "homepage": "https://github.com/mwittner2/TheDineApp#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
