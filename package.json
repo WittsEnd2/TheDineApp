@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/mwittner2/TheDineApp#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
   }
 }
